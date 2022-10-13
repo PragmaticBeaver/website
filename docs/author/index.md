@@ -15,3 +15,5 @@ Die Kurzgeschichten sind eher als Miniatur Skripte anzusehen, rohe Versionen mei
 [Die Jägerin](./kreativerErguss/erguss1.md)
 
 [Eine seltsame Nacht](./kreativerErguss/erguss2.md)
+
+[Ein seltsamer Tag](./kreativerErguss/erguss3.md)
