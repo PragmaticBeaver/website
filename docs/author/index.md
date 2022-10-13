@@ -11,3 +11,7 @@ Die Beiträge unter dem Namen "Kreativer Erguss" sind von mir geschriebene Kurzg
 Für dieses Format gebe ich mir selbst eine Stunde Zeit, nicht mehr, aber auch nicht weniger. Entsprechend verzichte ich auf eine Grammatik- oder Rechtschreibprüfung, seht mir dies bitte nach.
 
 Die Kurzgeschichten sind eher als Miniatur Skripte anzusehen, rohe Versionen meiner verworrenen Gedanken, die schnell auf das digitale Papier übertragen werden müssen, bevor sie mir entgleiten.
+
+[Die Jägerin](./kreativerErguss/erguss1.md)
+
+[Eine seltsame Nacht](./kreativerErguss/erguss2.md)
