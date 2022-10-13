@@ -2,7 +2,7 @@ export default {
     lang: "de-DE",
     title: "Der Beaver",
     description: "Ein Blog vom Beaver, auch bekannt als Dominik Blatzheim.",
-    base: "/beaver/",
+    base: "/website/",
     markdown: {
         theme: "dark-plus",
         lineNumbers: true
