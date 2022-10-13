@@ -63,3 +63,5 @@ Dann spürte sie immer wieder, wie sich etwas weiches, warmes und flauschiges an
 Als die ersten Sonnenstrahlen ihre Augen berührten, öffnete sie vorsichtig ihre Augen. Hugo saß neben ihr, putzte sich in aller Ruhe. “Na du bist wieder die Ruhe in Person.” Merkte sie an, als sie den Katzer streichelte.
 
 Dann richtete sie sich auf, wobei sie ihre Beine ein stück nach oben zog. Eiskalt lief es ihr den Rücken hinab denn unter der Decke war noch immer etwas warmes, weiches. Etwas haariges, das durch ihre Bewegung geweckt worden ist, denn das Ding unter der Decke fing an sich in ihre Richtung zu bewegen!
+
+[Zurück](./../index.md)

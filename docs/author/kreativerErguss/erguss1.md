@@ -44,3 +44,5 @@ Sollten ihre Nachkommen nicht stark genug sein, nicht weiterentwickelt genug sei
 Doch das ungute Gefühl wollte sie einfach nicht los lassen. Wo blieb sie nur? Sie hatte eine ihrer besten Kriegerinnen losgeschickt, sie war eine Meisterin der Tarnung und des Versteckens. Konnte sie entdeckt worden sein?
 
 Da trommelte es plötzlich an ihrer Kammer. Mit gesenktem Kopf trat die erschöpfte Kämpferin ein. Luna verspürte pure Erleichterung als sie sah, was die andere bei sich trug.
+
+[Zurück](./../index.md)
