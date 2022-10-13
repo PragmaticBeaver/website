@@ -17,3 +17,5 @@ Die Kurzgeschichten sind eher als Miniatur Skripte anzusehen, rohe Versionen mei
 [Eine seltsame Nacht](./kreativerErguss/erguss2.md)
 
 [Ein seltsamer Tag](./kreativerErguss/erguss3.md)
+
+[Der Unfall](./kreativerErguss/erguss4.md)
