@@ -11,7 +11,7 @@ export default {
         nav: [
             { text: "Home", link: "/" },
             { text: "About", link: "/about" },
-            { text: "Blog", link: "/blog" }
+            { text: "Blog", link: "/author/" }
         ],
         socialLinks: [
             { icon: "github", link: "https://github.com/pragmaticbeaver" }
