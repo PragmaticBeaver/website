@@ -19,3 +19,5 @@ Die Kurzgeschichten sind eher als Miniatur Skripte anzusehen, rohe Versionen mei
 [Ein seltsamer Tag](./kreativerErguss/erguss3.md)
 
 [Der Unfall](./kreativerErguss/erguss4.md)
+
+[Die lange Reise](./kreativerErguss/erguss5.md)
