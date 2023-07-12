@@ -4,6 +4,12 @@ Hier schreibe ich über meine kreativen Ideen und Ausbrüche für Bücher, Kurzg
 
 Geschichten schreibe ich bereits seit meiner Kindheit jedoch kam mir nie die Idee, sie für die Ewigkeit im Netz zu hinterlassen. Am 14. August 2022 änderte sich dies und somit habe ich angefangen, diesen Blog zu schreiben.
 
+## Avas Nohr
+
+`Avas Nohr` ist eine von mir erdachte Sci fi Welt, die sich mitten in einer Apokalypse befindet. Die Menschheit wird von Mutanten im Volksmund als Muts bezeichnet werden, bedroht. Die sicheren Städte werden von Tag zu Tag weniger die Muts bauen Nester, mansche sprechen von Staaten auf. Zusätzlich gibt es in den wenigen sicheren Städten poltische Aufruhen. Die neue Völker, welche durch die Apokalypse entstanden sind, kämpfen für gleiche Rechte, ob nun Elfen, Dravish oder Plantae, alle wollen sie die sogeannten Menschenrechte erhalten.
+
+[Operation 0](./Avas%20Nohr/Operation%200.md)
+
 ## Kreativer Erguss
 
 Die Beiträge unter dem Namen "Kreativer Erguss" sind von mir geschriebene Kurzgeschichten, die ich mehrmals die Woche schreibe.
