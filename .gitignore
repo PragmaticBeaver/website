@@ -145,3 +145,4 @@ dist
 
 # custom
 .DS_STORE
+*/.vitepress/cache/*
