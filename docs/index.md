@@ -16,7 +16,7 @@ Ich bin seit etwa 2013 Dungeon Master (damals noch Game Master im Pathfinder Kon
 
 ### Mein TTRPG Content
 
-- Kommt bald :tada:
+[Mein Tabletop content](./ttrpg/index.md)
 
 ## :computer: Softwareentwicklung
 
