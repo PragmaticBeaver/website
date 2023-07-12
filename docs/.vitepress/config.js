@@ -1,7 +1,7 @@
 export default {
     lang: "de-DE",
-    title: "Der Beaver",
-    description: "Ein Blog vom Beaver, auch bekannt als Dominik Blatzheim.",
+    title: "PragmaticBeaver",
+    description: "Ein Blog vom Biber, auch bekannt als Dome.",
     base: "/website/",
     markdown: {
         theme: "dark-plus",
@@ -9,9 +9,9 @@ export default {
     },
     themeConfig: {
         nav: [
-            { text: "Home", link: "/" },
-            { text: "About", link: "/about" },
-            { text: "Blog", link: "/author/" }
+            { text: "About", link: "/" },
+            { text: "Stories", link: "/author/" },
+            { text: "Tabletop", link: "/ttrpg/" }
         ],
         socialLinks: [
             { icon: "github", link: "https://github.com/pragmaticbeaver" }

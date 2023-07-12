@@ -1,6 +1,6 @@
 # Mein kreativer Blog
 
-Hier schreibe ich über meine kreativen Ideen und Ausbrüche für Bücher, Kurzgeschichten und Tabletop homebrew.
+Hier schreibe ich über meine kreativen Ideen und Ausbrüche für Bücher und Kurzgeschichten.
 
 Geschichten schreibe ich bereits seit meiner Kindheit jedoch kam mir nie die Idee, sie für die Ewigkeit im Netz zu hinterlassen. Am 14. August 2022 änderte sich dies und somit habe ich angefangen, diesen Blog zu schreiben.
 
