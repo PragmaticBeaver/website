@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as r,a as i}from"./app.184d42fb.js";const w=JSON.parse('{"title":"Der Unfall","description":"","frontmatter":{},"headers":[],"relativePath":"author/kreativerErguss/erguss4.md"}'),t={name:"author/kreativerErguss/erguss4.md"},s=i("",16),a=[s];function h(d,l,u,c,o,g){return r(),n("div",null,a)}const b=e(t,[["render",h]]);export{w as __pageData,b as default};
