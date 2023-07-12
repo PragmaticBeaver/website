@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,U as r}from"./chunks/framework.126d66d5.js";const u=JSON.parse('{"title":"Über den Biber","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"},n=r("",15),o=[n];function l(h,c,s,d,p,m){return a(),t("div",null,o)}const f=e(i,[["render",l]]);export{u as __pageData,f as default};
