@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as i,a as r}from"./app.15bafdcc.js";const f=JSON.parse('{"title":"Operation 0","description":"","frontmatter":{},"headers":[],"relativePath":"author/Avas Nohr/Operation 0.md"}'),s={name:"author/Avas Nohr/Operation 0.md"},t=r("",14),a=[t];function h(d,u,c,l,m,g){return i(),n("div",null,a)}const k=e(s,[["render",h]]);export{f as __pageData,k as default};
